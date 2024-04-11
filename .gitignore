@@ -1,0 +1,4 @@
+_venv/
+.ruff_cache/
+
+.env

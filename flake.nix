@@ -34,7 +34,8 @@
                 virtualenv # Virtualenv
                 pip # The pip installer
 
-                discord.py
+                python-dotenv
+                discordpy
               ]))
             ];
           };
